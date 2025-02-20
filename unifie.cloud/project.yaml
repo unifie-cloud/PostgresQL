@@ -1,0 +1,18 @@
+showVerionsTab: false
+showEnvVarsTab: true
+useRawYaml: false
+allowAutoApplyLimits: false
+name: PostgresQL
+title: PostgresQL
+logo: null
+tags:
+  - database
+description: >-
+  PostgreSQL is a powerful, open and extensible relational database management
+  system (DBMS). It is used to store, manage, and process structured data,
+  supporting complex queries, transactions, and data integrity. PostgreSQL is
+  suitable for a wide range of tasks, from small applications to large
+  enterprise systems, due to its reliability, performance, and support for
+  modern features such as JSON, full-text search, and geospatial data.
+oneDeploymentPerCluster: false
+notAllowRemoveNamespace: false
